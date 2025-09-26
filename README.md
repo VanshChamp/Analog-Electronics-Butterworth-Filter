@@ -1,6 +1,6 @@
-Analog Electronics Project: 1st & 2nd Order Butterworth Filter Design
+#Analog Electronics Project: 1st & 2nd Order Butterworth Filter
 Overview
-This repository contains the design, analysis, and implementation of a Butterworth filter, developed for a core course in Analog Electronics. The project showcases a strong understanding of active filter theory and hands-on circuit design, including a term paper that delves into the characteristics and applications of both 1st and 2nd-order filters.
+This repository contains the design, analysis, and implementation of a Butterworth filter, developed for a core course in Analog Electronics (Course: 2EC102). The project showcases a strong understanding of active filter theory and hands-on circuit design, including a term paper that delves into the characteristics and applications of both 1st and 2nd-order filters.
 
 The work was completed as a two-part academic exercise:
 
@@ -12,14 +12,22 @@ Project for: Nirma University, Institute of Technology, B. Tech. Semester IV
 Team: Budania Niti Mahavir (23BEC026) & Vansh Champaneri (23BEC027)
 
 Key Project Deliverables
-1. 1st-Order Bandpass Filter
+1. 1st-Order Bandpass Filter Implementation
 This circuit was designed to create a bandpass filter with a low cutoff frequency (f 
 L
 ​
  ) of approximately 1.5 kHz and a high cutoff frequency (f 
 H
 ​
- ) of approximately 53 kHz. The design utilizes passive RC components and an LM741 operational amplifier configured for buffering and impedance matching to achieve a maximally flat response in the passband. The filter was built and tested to verify its performance.
+ ) of approximately 53 kHz. The design utilizes passive RC components and an LM741 operational amplifier for buffering and impedance matching to achieve a maximally flat response in the passband. The filter was built and tested to verify its performance.
+
+Key Components Used:
+
+Operational Amplifier: LM741
+
+Resistors: 100 kΩ, 10 kΩ, 3 kΩ
+
+Capacitors: 0.001 µF
 
 Included Files:
 
@@ -52,4 +60,4 @@ AE_Term_Paper_23BEC026_23BEC27.docx: The term paper on 1st and 2nd-order filters
 .gitignore: Excludes irrelevant files from the repository.
 
 Connect with Us
-Feel free to connect on LinkedIn to discuss digital and analog electronics or other projects!
+Feel free to connect with me on LinkedIn to discuss digital and analog electronics or other projects!
