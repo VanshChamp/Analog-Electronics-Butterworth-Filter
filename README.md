@@ -1,6 +1,6 @@
-Analog Electronics Project: 1st & 2nd Order Butterworth Filter
+# Analog Electronics Project: 1st & 2nd Order Butterworth Filter
 
-Overview
+# Overview
 
 This repository contains the design, analysis, and implementation of a Butterworth filter, developed for a core course in Analog Electronics (Course: 2EC102). The project showcases a strong understanding of active filter theory and hands-on circuit design, including a term paper that delves into the characteristics and applications of both 1st and 2nd-order filters.
 
@@ -23,7 +23,7 @@ H
 ​
  ) of approximately 53 kHz. The design utilizes passive RC components and an LM741 operational amplifier for buffering and impedance matching to achieve a maximally flat response in the passband. The filter was built and tested to verify its performance.
 
-Key Components Used:
+# Key Components Used:
 
 Operational Amplifier: LM741
 
@@ -31,7 +31,7 @@ Resistors: 100 kΩ, 10 kΩ, 3 kΩ
 
 Capacitors: 0.001 µF
 
-Included Files:
+# Included Files:
 
 AE_Report_23BEC026_23BEC027.docx: The project report detailing the design, construction, peripheral used, and working principle of the 1st-order filter.
 
@@ -40,7 +40,7 @@ Circuit diagrams and simulation results are available within the report.
 2. Term Paper on Butterworth Filters
 The term paper provides a detailed theoretical background on Butterworth filters and other filter types, highlighting their unique characteristics and applications. It covers the mathematical derivations and includes a comparative analysis of different filters.
 
-Key Topics Covered:
+# Key Topics Covered:
 
 Filter Types: A summary of Butterworth, Chebyshev, Bessel, and Elliptical filters.
 
@@ -50,16 +50,16 @@ Circuit Analysis: Zero-pole analysis of 2nd-order filters.
 
 Applications: A discussion of real-world applications in audio signal processing, biomedical instrumentation, and communication systems.
 
-Included File:
+# Included File:
 
 AE_Term_Paper_23BEC026_23BEC27.docx: The full term paper document.
 
-Repository Files
+# Repository Files
 AE_Report_23BEC026_23BEC027.docx: The project report on the 1st-order filter implementation.
 
 AE_Term_Paper_23BEC026_23BEC27.docx: The term paper on 1st and 2nd-order filters.
 
 .gitignore: Excludes irrelevant files from the repository.
 
-Connect with Us
+Connect with Me
 Feel free to connect with me on LinkedIn to discuss digital and analog electronics or other projects!
