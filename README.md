@@ -40,7 +40,7 @@ Circuit diagrams and simulation results are available within the report.
 2. Term Paper on Butterworth Filters
 The term paper provides a detailed theoretical background on Butterworth filters and other filter types, highlighting their unique characteristics and applications. It covers the mathematical derivations and includes a comparative analysis of different filters.
 
-# Key Topics Covered:
+Key Topics Covered:
 
 Filter Types: A summary of Butterworth, Chebyshev, Bessel, and Elliptical filters.
 
@@ -50,11 +50,11 @@ Circuit Analysis: Zero-pole analysis of 2nd-order filters.
 
 Applications: A discussion of real-world applications in audio signal processing, biomedical instrumentation, and communication systems.
 
-# Included File:
+Included File:
 
 AE_Term_Paper_23BEC026_23BEC27.docx: The full term paper document.
 
-# Repository Files
+Repository Files
 AE_Report_23BEC026_23BEC027.docx: The project report on the 1st-order filter implementation.
 
 AE_Term_Paper_23BEC026_23BEC27.docx: The term paper on 1st and 2nd-order filters.
