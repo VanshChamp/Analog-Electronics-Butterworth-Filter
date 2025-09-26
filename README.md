@@ -13,7 +13,7 @@ Theoretical Analysis: A comprehensive term paper detailing the design principles
 Project for: Nirma University, Institute of Technology, B. Tech. Semester IV
 Team: Budania Niti Mahavir (23BEC026) & Vansh Champaneri (23BEC027)
 
-Key Project Deliverables
+# Key Project Deliverables
 1. 1st-Order Bandpass Filter Implementation
 This circuit was designed to create a bandpass filter with a low cutoff frequency (f 
 L
@@ -23,7 +23,7 @@ H
 ​
  ) of approximately 53 kHz. The design utilizes passive RC components and an LM741 operational amplifier for buffering and impedance matching to achieve a maximally flat response in the passband. The filter was built and tested to verify its performance.
 
-# Key Components Used:
+Key Components Used:
 
 Operational Amplifier: LM741
 
@@ -31,7 +31,7 @@ Resistors: 100 kΩ, 10 kΩ, 3 kΩ
 
 Capacitors: 0.001 µF
 
-# Included Files:
+Included Files:
 
 AE_Report_23BEC026_23BEC027.docx: The project report detailing the design, construction, peripheral used, and working principle of the 1st-order filter.
 
